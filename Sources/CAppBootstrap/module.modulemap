@@ -1,0 +1,6 @@
+module CAppBootstrap {
+    header "app_bootstrap.h"
+    export *
+
+    link "SDL2"
+}
